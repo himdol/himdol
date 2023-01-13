@@ -2,7 +2,7 @@
 
 
 <div align=center>
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himdol&theme=github)
+    ![TOPLAGUAGES](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himdol&theme=github)
 </div>
 
 
