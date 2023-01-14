@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome To Himdol's Github&fontSize=38" >
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Himdol's Profile&fontSize=38" />
 <div>
   <h2> 📚 Skills </h2>
   <h3 class="about-framework"> 📗 Framework </h3>
@@ -39,4 +39,8 @@
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
   </div>
+</div>
+<div>
+  <h2> 📚 Use Language on Git hub </h2>
+  <a href="https://github.com/himdol/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himdol" alt="Top Langs">
 </div>
