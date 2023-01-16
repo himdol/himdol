@@ -42,7 +42,13 @@
     <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
   </div>
 </div>
-<div>
+<div class="what-am-i-did-do">
+  <h2> 📅 What am I did do over the Last 7 Days </h2>
+  <div>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@himdol/ece7ba5f-d412-4066-8733-a609f6a8ec76.png" / width="60%" height="400"></a>
+  </div>
+</div>
+<div class="use-language-on-git-hub" style="display: inline-block;">
   <h2> 📚 Use Language on Git hub </h2>
-  <a href="https://github.com/himdol/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himdol" alt="Top Langs">
+  <a href="https://github.com/himdol/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himdol" alt="Top Langs" width="270" height="270">
 </div>
