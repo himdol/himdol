@@ -48,7 +48,3 @@
     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@himdol/ece7ba5f-d412-4066-8733-a609f6a8ec76.png" / width="60%" height="400"></a>
   </div>
 </div>
-<div class="use-language-on-git-hub" style="display: inline-block;">
-  <h2> 📚 Use Language on Git hub </h2>
-  <a href="https://github.com/himdol/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himdol" alt="Top Langs" width="270" height="270">
-</div>
