@@ -42,7 +42,9 @@
     <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
   </div>
 </div>
-  <img src="https://capsule-render.vercel.app/api?type=egg&amp;color=auto&amp;width=80&amp;height=40&amp;section=main&amp;text=%EC%A2%8B%EC%95%84%EC%9A%94%EB%8A%94%20%EC%82%AC%EB%9E%91%EC%9E%85%EB%8B%88%EB%8B%A4&amp;fontSize=10">
+<div>
+
+</div>
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=200&amp;section=footer">
 </div>
